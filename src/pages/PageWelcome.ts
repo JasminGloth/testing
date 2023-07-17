@@ -16,7 +16,7 @@ export const PageWelcome = () => {
           <label for="stadt">Stadt</label>
           <select name="stadt" id="stadtSelect">
             ${cities.map((city) => {
-              return `<option value="${city.name}">${city.name}</option`;
+              return `<option value="${city.name}">${city.name}</option>`;
             })}            
           </select>
           <input type="number">
