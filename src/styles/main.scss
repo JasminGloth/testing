@@ -65,6 +65,32 @@ body {
 	.pageWelcome {
 		.bedarfsrechner{
 			color: #87cefa;
+			form {
+				align-items: center;
+				width: 50vw;
+				margin-top: 1rem;
+				margin-bottom: 1rem;
+				input {
+					width: 10vw;
+				}
+				select {
+					margin-bottom: 2rem;
+				}
+				h2 {
+					margin-bottom: 1rem;
+				}
+			}
 		}
+	}
+	.PageBedarfsrechnerPR3 {
+		.bedarfsrechner{
+			color: #87cefa;
+			form {
+				align-items: center;
+				width: 50vw;
+				margin-top: 1rem;
+				margin-bottom: 1rem;
+			}
+		}	
 	}
 }

@@ -1,0 +1,142 @@
+[
+  {
+    "ware": "Holz",
+    "ankauf": 40,
+    "verkauf": 59,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Ziegel",
+    "ankauf": 40,
+    "verkauf": 59,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Getreide",
+    "ankauf": 40,
+    "verkauf": 59,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Hanf",
+    "ankauf": 40,
+    "verkauf": 59,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Wolle",
+    "ankauf": 60,
+    "verkauf": 90,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Rohmetalle",
+    "ankauf": 60,
+    "verkauf": 90,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Honig",
+    "ankauf": 60,
+    "verkauf": 90,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Salz",
+    "ankauf": 70,
+    "verkauf": 104,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Metallwaren",
+    "ankauf": 200,
+    "verkauf": 301,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Met",
+    "ankauf": 180,
+    "verkauf": 270,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Tuch",
+    "ankauf": 180,
+    "verkauf": 270,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Bier",
+    "ankauf": 90,
+    "verkauf": 135,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Stockfisch",
+    "ankauf": 155,
+    "verkauf": 232,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Kleidung",
+    "ankauf": 420,
+    "verkauf": 630,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Käse",
+    "ankauf": 120,
+    "verkauf": 180,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Pech",
+    "ankauf": 140,
+    "verkauf": 211,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Felle",
+    "ankauf": 360,
+    "verkauf": 540,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Fleisch",
+    "ankauf": 346,
+    "verkauf": 518,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Wein",
+    "ankauf": 480,
+    "verkauf": 720,
+    "bd": 0,
+    "herstadt": []
+  },
+  {
+    "ware": "Gewürze",
+    "ankauf": 600,
+    "verkauf": 900,
+    "bd": 0,
+    "herstadt": []
+  }
+]

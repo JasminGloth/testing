@@ -14,7 +14,7 @@ export const PageInfo = () => {
 //   });
 
   return /*html*/ `
-    <div class="page pageWelcome">
+    <!-- <div class="page pageWelcome">
       <section class="bedarfsrechner">
         <h2>Bedarfsrechner</h2>
         <form action="">
@@ -42,7 +42,7 @@ export const PageInfo = () => {
           </thead>
         </table>
       </section>
-    </div>
+    </div> -->
   `;
 };
 

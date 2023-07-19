@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Korvette",
+        "amount": 120
+    },
+    {
+        "name":"Fregatte",
+        "amount":130
+    },
+    {
+        "name":"Galeone",
+        "amount":180
+    },
+    {
+        "name":"Kriegsfregatte",
+        "amount":180
+    },
+    {
+        "name":"Kriegsgaleone",
+        "amount":230
+    },
+    {
+        "name":"Liner",
+        "amount":250
+    }
+]
